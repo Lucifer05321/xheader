@@ -1,0 +1,20 @@
+{
+  "name": "xheader-client",
+  "version": "1.0.0",
+  "description": "Personal control helper - Client Agent",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "execa": "^8.0.1",
+    "axios": "^1.7.0",
+    "archiver": "^7.0.0",
+    "extract-zip": "^2.0.1",
+    "glob": "^10.3.0",
+    "socket.io-client": "^4.7.0",
+    "mime-types": "^2.1.35"
+  }
+}

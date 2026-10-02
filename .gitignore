@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Sensitive Server Configuration & Stored Nicknames
+dashboard/config.json
+dashboard/devices.json
+
+# Environment variables & Logs
+.env
+*.log
+npm-debug.log*
+
+# Temporary & Cache Files
+.DS_Store
+Thumbs.db
+*.tmp
+.tmp/
